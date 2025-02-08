@@ -58,4 +58,4 @@ Benefits:
     • Shorter Travel Times: Optimized traffic control can lead to faster movement through intersections and roads.
     • Lower Emissions: When traffic moves efficiently, cars spend less time idling, which can reduce fuel consumption and emissions.
     • Improved Road Safety: Through better management of traffic, particularly in busy intersections and high-density areas, the likelihood of accidents and collisions can be minimized.
-    • Cost Efficiency: Effective traffic control can save on road maintenance and emergency response costs by reducing accidents and road wear
+    • Cost Efficiency: Effective traffic control can save on road maintenance and emergency response costs by reducing accidents and road wearnewchanges
