@@ -7,7 +7,7 @@ Why Traffic?
     • Commonly we never think that why the traffic is caused , the reason is traffic is caused due to high volume of vehicles that passing through an area. 
     • Actually there is no traffic at some hours of the day. But we observe this traffic at some peak hours like workers leaving from office at one time.
     • People leaving from their home town for their essential needs.
-    • Students traveling certain distance to reach their schools and leaving from the school..etc
+    • Students traveling certain distance to reach their schools and leaving from the school.
 
 
 How to Control?
@@ -58,4 +58,4 @@ Benefits:
     • Shorter Travel Times: Optimized traffic control can lead to faster movement through intersections and roads.
     • Lower Emissions: When traffic moves efficiently, cars spend less time idling, which can reduce fuel consumption and emissions.
     • Improved Road Safety: Through better management of traffic, particularly in busy intersections and high-density areas, the likelihood of accidents and collisions can be minimized.
-    • Cost Efficiency: Effective traffic control can save on road maintenance and emergency response costs by reducing accidents and road wear
+    • Cost Efficiency: Effective traffic control can save on road maintenance and emergency response costs by reducing accidents and road wearnewchanges
