@@ -7,7 +7,7 @@ Why Traffic?
     • Commonly we never think that why the traffic is caused , the reason is traffic is caused due to high volume of vehicles that passing through an area. 
     • Actually there is no traffic at some hours of the day. But we observe this traffic at some peak hours like workers leaving from office at one time.
     • People leaving from their home town for their essential needs.
-    • Students traveling certain distance to reach their schools and leaving from the school..etc
+    • Students traveling certain distance to reach their schools and leaving from the school.
 
 
 How to Control?
