@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"U3, U6",2," IR sensor"
+"D1, D2",2,"Red LED"
+"D3, D4",2,"Yellow LED"
+"D5, D6",2,"Green LED"
+"DIST1, DIST2",2," Ultrasonic Distance Sensor (4-pin)"
