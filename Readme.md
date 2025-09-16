@@ -12,7 +12,7 @@ In our country,we are observing that there is huge traffic and there is no certa
 
 **How to Control?**
 
-There are certain techniques are being followed to control the traffic.
+There are certain techniques are being followed to control the traffic.<br>
 *A Traffic Density Control System is designed to manage the flow of traffic by monitoring and controlling traffic volumes on roads to prevent congestion, reduce delays, and improve overall road safety and efficiency.*
 
 **Sensors and Data Collection:**
@@ -26,7 +26,7 @@ For detection of vehicles, IR sensors are been used. This sensors detect the mot
 
 **Working Principle:**
 
-+This system works on the principle of motion detection and processing. When an IR sensor detects the motion of any vehicle, Ultrasonic sensor measures the distance between the vehicle and sensor .
++ This system works on the principle of motion detection and processing. When an IR sensor detects the motion of any vehicle, Ultrasonic sensor measures the distance between the vehicle and sensor .
 + If the distance is small, it allows the vehicle to pass automatically by glowing green LED.
 + If the distance is large, it glows yellow LED.
 + If two lanes are used, then if in one way  vehicles are passing, then other way vehicles are stopped by glowing red LED.
@@ -56,7 +56,7 @@ For detection of vehicles, IR sensors are been used. This sensors detect the mot
 
 **Benefits:** <br>
 ***Reduced Congestion:*** By adjusting signal timings, managing lanes, and rerouting traffic, congestion is reduced, resulting in smoother traffic flow.
-Shorter Travel Times: Optimized traffic control can lead to faster movement through intersections and roads.
-***Lower Emissions:*** When traffic moves efficiently, cars spend less time idling, which can reduce fuel consumption and emissions.
-***Improved Road Safety:*** Through better management of traffic, particularly in busy intersections and high-density areas, the likelihood of accidents and collisions can be minimized.
-***Cost Efficiency:*** Effective traffic control can save on road maintenance and emergency response costs by reducing accidents and road wear.
+Shorter Travel Times: Optimized traffic control can lead to faster movement through intersections and roads.<br>
+***Lower Emissions:*** When traffic moves efficiently, cars spend less time idling, which can reduce fuel consumption and emissions.<br>
+***Improved Road Safety:*** Through better management of traffic, particularly in busy intersections and high-density areas, the likelihood of accidents and collisions can be minimized.<br>
+***Cost Efficiency:*** Effective traffic control can save on road maintenance and emergency response costs by reducing accidents and road wear.<br>
