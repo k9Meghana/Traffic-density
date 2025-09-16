@@ -4,10 +4,10 @@ In our country,we are observing that there is huge traffic and there is no certa
 
 **Why Traffic?**
 
--Commonly we never think that why the traffic is caused , the reason is traffic is caused due to high volume of vehicles that passing through an area. 
--Actually there is no traffic at some hours of the day. But we observe this traffic at some peak hours like workers leaving from office at one time.
--People leaving from their home town for their essential needs.
--Students traveling certain distance to reach their schools and leaving from the school....etc.
+- Commonly we never think that why the traffic is caused , the reason is traffic is caused due to high volume of vehicles that passing through an area. 
+- Actually there is no traffic at some hours of the day. But we observe this traffic at some peak hours like workers leaving from office at one time.
+- People leaving from their home town for their essential needs.
+- Students traveling certain distance to reach their schools and leaving from the school....etc.
 
 
 **How to Control?**
@@ -17,33 +17,33 @@ There are certain techniques are being followed to control the traffic.
 
 **Sensors and Data Collection:**
 
--In this system, we used *IR sensors* and *Ultrasonic sensors* and LCD display and LED’s.
+- In this system, we used *IR sensors* and *Ultrasonic sensors* and LCD display and LED’s.
 For detection of vehicles, IR sensors are been used. This sensors detect the motion of vehicles or any thing.
--For knowing the distance between the vehicle and the traffic signal ,Ultrasonic sensor is used. This sensor generates a sound wave and when the wave hits any object ,it sends the distance from sensor to the object.
--LCD display is used to display the *alert messages*.
--All the sensors are connected to Arduino board and being processed.
+- For knowing the distance between the vehicle and the traffic signal ,Ultrasonic sensor is used. This sensor generates a sound wave and when the wave hits any object ,it sends the distance from sensor to the object.
+- LCD display is used to display the *alert messages*.
+- All the sensors are connected to Arduino board and being processed.
 
 
 **Working Principle:**
 
 +This system works on the principle of motion detection and processing. When an IR sensor detects the motion of any vehicle, Ultrasonic sensor measures the distance between the vehicle and sensor .
-+If the distance is small, it allows the vehicle to pass automatically by glowing green LED.
-+If the distance is large, it glows yellow LED.
-+If two lanes are used, then if in one way  vehicles are passing, then other way vehicles are stopped by glowing red LED.
-+It can also alert the messages in an LCD display.
++ If the distance is small, it allows the vehicle to pass automatically by glowing green LED.
++ If the distance is large, it glows yellow LED.
++ If two lanes are used, then if in one way  vehicles are passing, then other way vehicles are stopped by glowing red LED.
++ It can also alert the messages in an LCD display.
 
 
 
 
 **Components:**
 
-*Arduino uno
-*IR sensors
-*Ultrasonic sensors
-*LCD display
-*LED’s
-*Breadboard
-*Connecting wires
+* Arduino uno
+* IR sensors
+* Ultrasonic sensors
+* LCD display
+* LED’s
+* Breadboard
+* Connecting wires
 
 **Procedure:**
 
